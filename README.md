@@ -1,0 +1,1 @@
+# TrapezoidMethod_OpenMP
